@@ -1,3 +1,4 @@
+按住 Ctrl 點連結另開視窗
 <ul>
   <li><a href="https://store.steampowered.com/app/3161340/_/" target="_blank">靈校奇日</a></li>
   <li><a href="https://store.steampowered.com/app/1388590/6/" target="_blank">人中之龍6生命詩篇V1.009A</a></li>
